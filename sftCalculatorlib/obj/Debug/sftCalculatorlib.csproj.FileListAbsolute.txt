@@ -1,0 +1,6 @@
+C:\Users\Wahib N\source\repos\sftCalculatorlib\bin\Debug\sftCalculatorlib.dll
+C:\Users\Wahib N\source\repos\sftCalculatorlib\bin\Debug\sftCalculatorlib.pdb
+C:\Users\Wahib N\source\repos\sftCalculatorlib\obj\Debug\sftCalculatorlib.csprojAssemblyReference.cache
+C:\Users\Wahib N\source\repos\sftCalculatorlib\obj\Debug\sftCalculatorlib.csproj.CoreCompileInputs.cache
+C:\Users\Wahib N\source\repos\sftCalculatorlib\obj\Debug\sftCalculatorlib.dll
+C:\Users\Wahib N\source\repos\sftCalculatorlib\obj\Debug\sftCalculatorlib.pdb
